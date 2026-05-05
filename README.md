@@ -2,10 +2,13 @@
 
 **Student:** Weihao Song  
 **Student ID:** 25645060
+
 **Student:** Yuqi Ding
 **Student ID:**25750668
+
 **Student:** Ciyu Zhang
 **Student ID:**26052276
+
 ## 1. Project Summary
 
 Expense Management System is a React-based single-page web application that extends the original Assignment 1 Expense Tracker into a more complex multi-user expense management platform. The website helps users record, manage, search, and analyse personal expenses. It also includes user registration/login, JWT authentication, password hashing, activity tracking, and an admin panel for managing users and viewing system activity.
