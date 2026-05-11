@@ -1,13 +1,13 @@
 # Expense Management System
 
-**Student:** Weihao Song  
-**Student ID:** 25645060
+Student: Weihao Song  
+Student ID:*25645060
 
-**Student:** Yuqi Ding
-**Student ID:**25750668
+Student: Yuqi Ding
+Student ID:25750668
 
-**Student:** Ciyu Zhang
-**Student ID:**26052276
+Student: Ciyu Zhang
+Student ID:26052276
 
 ## 1. Project Summary
 
